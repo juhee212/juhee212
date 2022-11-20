@@ -14,6 +14,7 @@
 ## 🛠 Ferramentas
 **Mobile**
 - Java e Kotlin
+
 **WEB**
 - PHP - Lavarel
 - Javascript - Bootstrap, Angular
