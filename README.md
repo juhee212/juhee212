@@ -1,16 +1,25 @@
-### Hi there 👋
 
-<!--
-**juhee212/juhee212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About me
 
-Here are some ideas to get you started:
+- Julia Santana 🤩
+- 20 years old 🥳 
+- In love with God and tech 🥰
+- Fighting with time to learning more n more
+- Have i metioned that i can have a conversation in english? YEAHH
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+## 🛠 Ferramentas
+**Mobile**
+- Java e Kotlin
+**WEB**
+- PHP - Lavarel
+- Javascript - Bootstrap, Angular
+
+
+
+### 📲 Contact
+
+Linkedin - https://www.linkedin.com/in/julia-helena123/
