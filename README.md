@@ -11,7 +11,7 @@
 
 
 
-## 🛠 Ferramentas
+## 🛠 Tools
 **Mobile**
 - Java e Kotlin
 
