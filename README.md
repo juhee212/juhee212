@@ -4,7 +4,7 @@
 - Julia Santana 🤩
 - 20 years old 🥳 
 - In love with God and tech 🥰
-- Fighting with time to learning more n more
+- Fighting against the time to learning more n more
 - Have i metioned that i can have a conversation in english? YEAHH
 
 
