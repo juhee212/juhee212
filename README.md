@@ -18,7 +18,7 @@
 
 **WEB**
 - PHP - Laravel                   ...updating
-- Javascript - Bootstrap, Angular
+- Javascript - Bootstrap, Angular ...updating
 
 
 
