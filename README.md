@@ -13,10 +13,11 @@
 
 ## 🛠 Tools
 **Mobile**
-- Java e Kotlin
+- Java                            ...updating
+- Kotlin                          ...updating
 
 **WEB**
-- PHP - Laravel
+- PHP - Laravel                   ...updating
 - Javascript - Bootstrap, Angular
 
 
