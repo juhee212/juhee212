@@ -16,7 +16,7 @@
 - Java e Kotlin
 
 **WEB**
-- PHP - Lavarel
+- PHP - Laravel
 - Javascript - Bootstrap, Angular
 
 
